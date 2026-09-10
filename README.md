@@ -20,4 +20,4 @@ Para compilar y enlazar el código:
 ## Video Demostrativo
 En el siguiente video se explica el código paso a paso, se demuestra la ejecución en la consola y se verifica el comportamiento de los punteros en la memoria utilizando el depurador `x64dbg`.
 
-🎥 **Enlace al video:** [Inserta tu enlace de YouTube o Drive aquí]
+El video se encuentra en moodle
